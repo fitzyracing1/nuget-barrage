@@ -1,2 +1,5 @@
 # nuget-barrage
-Barrage plain-language clone of fitzyracing1/nuget
+
+Barrage clone of [fitzyracing1/nuget](https://github.com/fitzyracing1/nuget).
+
+Read [listing.barrage](listing.barrage).
